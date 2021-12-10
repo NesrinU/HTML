@@ -1,0 +1,22 @@
+p {
+    color: blue;
+    background-color:chartreuse;
+    font-size: larger;
+}
+
+#long_para {
+    color: rgb(235, 205, 194);
+}
+
+.first_group {
+    color: violet ;
+    background-color: skyblue;
+}
+
+.second_group {
+    color: cyan;
+    background-color: darkorange;
+}
+#second_h3 {
+    color: black
+}
